@@ -31,6 +31,12 @@ The project consists of two main tasks:
 
 ---
 
+## 📂 Dataset Used
+
+For this project, we are using a modified version of the **Bank Transaction Dataset for Fraud Detection** from Kaggle. The dataset is specifically adjusted to meet the project assessment criteria.
+
+---
+
 ## 🔍 Project Workflow
 
 ### 1. Clustering
@@ -62,7 +68,7 @@ The project consists of two main tasks:
 * Successfully grouped data into clusters
 * Classification model built using clustering output
 * Model evaluation performed using accuracy metric
-  
+
 ---
 
 ## 🚀 How to Run
@@ -70,6 +76,7 @@ The project consists of two main tasks:
 1. Open the notebooks using Jupyter Notebook or Google Colab
 2. Run all cells sequentially
 3. Ensure dataset files are in the correct directory
+4. Use the dataset version from **Google Drive** for consistent results
 
 ---
 
@@ -83,7 +90,8 @@ The project consists of two main tasks:
 
 ## 👤 Author
 
-**Maretta Govani Dinda Sacinta**
+**Maretta Govani Dinda Sacinta**  
+
 Submission for Coding Camp by DBS Foundation
 
 ---
